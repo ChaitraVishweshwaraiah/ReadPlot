@@ -10,7 +10,7 @@ import pandas as pd
 from matplotlib import style
 style.use('ggplot')
 
-f=open("C:\\Users\\Chaitra\\Desktop\\Vikram Solar\\Module_Temperature_trial.csv",'rb')
+#f=open("C:\\Users\\Chaitra\\Desktop\\Vikram Solar\\Module_Temperature_trial.csv",'rb')
 
 readfile=pd.read_csv("Module_Temperature_trial.csv")
 
